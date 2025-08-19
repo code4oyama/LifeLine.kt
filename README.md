@@ -34,3 +34,13 @@
 
 - APIキーやURLは、セキュリティの観点から外部に漏れないよう管理してください。
 - 詳細な設定手順は [Google公式ドキュメント](https://developers.google.com/maps/documentation/android-sdk/start) を参照してください。
+
+# 画像サンプル
+
+<img width="1080" height="2400" alt="Screenshot_20250819-215256" src="https://github.com/user-attachments/assets/a79f7dc3-eec0-4728-9545-d531d2cb37dd" />
+
+<img width="1080" height="2400" alt="Screenshot_20250819-215248" src="https://github.com/user-attachments/assets/e77ee82e-2f2f-4967-b832-975fd8f3b695" />
+
+<img width="1080" height="2400" alt="Screenshot_20250819-215237" src="https://github.com/user-attachments/assets/10b88255-2abb-4e7e-82ae-81bf61ab07af" />
+
+<img width="1080" height="2400" alt="Screenshot_20250819-215227" src="https://github.com/user-attachments/assets/3ce12715-f794-4434-8de2-c50baca0c584" />
