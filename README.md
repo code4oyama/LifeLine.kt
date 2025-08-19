@@ -1,4 +1,4 @@
-# LifeLineExam02 プロジェクト設定ガイド
+# LifeLine.kt プロジェクト設定ガイド
 
 ## 必要な環境変数
 
