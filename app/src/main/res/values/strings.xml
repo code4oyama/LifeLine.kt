@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">LifeLineExam02</string>
+    <string name="ButtonText1">避難場所を検索</string>
+    <string name="EditTextHint1">高齢者の人数</string>
+    <string name="EditTextHint2">赤ちゃんの人数</string>
+    <string name="EditTextHint3">男性の人数</string>
+    <string name="EditTextHint4">女性の人数</string>
+    <string name="map_activity_label">AAAAA</string>
+    <string name="MainActivityHeaderLabel">あなたのための避難場所検索</string>
+    <string name="ContentDescElderly">高齢者の人数を入力してください。</string>
+    <string name="ContentDescBaby">赤ちゃんの人数を入力してください。</string>
+    <string name="ContentDescMale">男性の人数を入力してください。</string>
+    <string name="ContentDescFemale">女性の人数を入力してください。</string>
+</resources>

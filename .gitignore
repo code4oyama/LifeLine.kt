@@ -1,0 +1,56 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Android build
+app/build/
+app/intermediates/
+app/.gradle/
+app/local.properties
+
+# Log files
+*.log
+
+# Generated files
+app/generated/
+
+# Misc
+*.swp
+*.swo
+*.tmp
+
+# Kintone API Token (hidden_dir)
+hidden_dir/KintoneApiToken.txt
+
+# VS Code
+.vscode/
+LifeLineExam02.code-workspace
+
+# Others
+local.properties
+
+# Ignore test reports
+app/test-results/
+app/test-output/
+
+# Ignore outputs
+app/outputs/
+
+# Ignore PNGs and resValues (generated)
+app/build/generated/res/pngs/
+app/build/generated/res/resValues/
+
+hidden_dir
+
